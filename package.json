@@ -1,7 +1,7 @@
 {
-  "name": "music_app",
+  "name": "sell_app",
   "version": "1.0.0",
-  "description": "musicApp",
+  "description": "SellApp",
   "author": "Troy",
   "private": true,
   "scripts": {
@@ -27,7 +27,7 @@
     "css-loader": "^0.28.0",
 
     "eventsource-polyfill": "^0.9.6",
-    "extract-text-webpack-plugin": "^3.0.0",
+    "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.4",
     "friendly-errors-webpack-plugin": "^1.6.1",
     "html-webpack-plugin": "^2.30.1",
