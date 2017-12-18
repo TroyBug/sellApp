@@ -14,7 +14,6 @@ npm run dev
 [See demo](https://vast-cliffs-55357.herokuapp.com)
 
 ![](https://github.com/TroyBug/sellApp/blob/master/dist/static/img/thumbnail_1.png)
-![](https://github.com/TroyBug/sellApp/blob/master/dist/static/img/thumbnail_2.png)
 ![](https://github.com/TroyBug/sellApp/blob/master/dist/static/img/thumbnail_3.png)
 
 
