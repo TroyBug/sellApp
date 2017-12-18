@@ -10,6 +10,6 @@ npm install
 npm run dev
 ```
 
-### Demo
+### Demo(view with mobile phone)
 [See demo](https://vast-cliffs-55357.herokuapp.com)
 
