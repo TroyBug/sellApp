@@ -10,13 +10,5 @@ npm install
 npm run dev
 ```
 
-### Demo(view with mobile phone)
-[See demo](https://vast-cliffs-55357.herokuapp.com)
-or scan the following QR code
-
-![](https://github.com/TroyBug/sellApp/blob/master/dist/static/img/1513607153.png)
-
-![](https://github.com/TroyBug/sellApp/blob/master/dist/static/img/thumbnail_1.png)
-![](https://github.com/TroyBug/sellApp/blob/master/dist/static/img/thumbnail_3.png)
 
 
